@@ -1,3 +1,4 @@
 # Project exclude paths
-/cmake-build-default/
-.idea/
+/cmake-build-default/!.idea/*
+.idea
+.idea/*

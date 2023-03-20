@@ -3,7 +3,7 @@
 #include <iostream>
 #include "subscriber.h"
 
-void subscriber() {
+_Noreturn void subscriber() {
     zmq::context_t context(1);
     zmq::socket_t subscriber(context, ZMQ_SUB);
 

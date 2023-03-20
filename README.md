@@ -1,4 +1,4 @@
-# ZeroMQ Chat Application
+# MQChat Application
 
 ## Description
 This chat application is built using ZeroMQ and C++ and features a simple console interface for communication between two users.
